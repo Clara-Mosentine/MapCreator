@@ -1,0 +1,19 @@
+/* navbar.css */
+ol{
+    list-style-type: none;
+    background-color: #1f3531;
+    color: #fff;
+    overflow: hidden;
+    margin: 0;
+    border: 0;
+}
+li{
+    /* float: right; */
+    display: inline-block;
+    padding: 25px;
+    font-size: 50;
+    color: white;
+}
+.navigation-menu{
+    width: 100%;
+}
